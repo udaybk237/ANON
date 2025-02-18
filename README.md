@@ -29,7 +29,7 @@ Upload your own PDFs to unlock all these features! With Academic AI Suite, you�
 
 ### 🔗 Resources
 ## 📺 Demo Video
-- [Google Drive Folder](https://drive.google.com/drive/folders/1dGYyOKPZSTcMYLHpUr57heVoE06tp20B?usp=drive_link) for additional files and resources.
+- [Google Drive Folder](https://drive.google.com/drive/folders/1oPJuXugaPDQyvlDBekSRBucpaPQmWVxt?usp=sharing) for additional files and resources.
 
 
 Clone this repo:
